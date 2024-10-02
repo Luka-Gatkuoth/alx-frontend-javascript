@@ -1,1 +1,1 @@
-This is ES6 promise project
+0x01 promis project
